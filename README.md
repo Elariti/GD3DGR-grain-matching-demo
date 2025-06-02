@@ -1,2 +1,15 @@
-# GD3DGR-grain-matching-demo
-Demo of matched keypoints (“grains”) between two views using SIFT — Phase 1 of the proposed GD3DGR 3D reconstruction pipeline.
+# GD3DGR: Grain Matching Demo (Phase 1)
+
+This notebook demonstrates keypoint detection and matching between two views using SIFT. These "grains" form the starting point of the Grain-to-Gaussian mapping pipeline proposed in GD3DGR.
+
+## Files
+- `grain_matching_demo.ipynb`: Run this in Colab
+- `view1.jpg`, `view2.jpg`: Input views of the same object
+- `matched_grains.jpg`: Output visualization
+
+## Output Example:
+![image](https://github.com/user-attachments/assets/8aebf896-b429-41e4-b8ba-3d513730bf20)
+
+
+## Next Step
+Triangulate matched keypoints into 3D points, then explore basic PyTorch3D rendering.
