@@ -1,6 +1,6 @@
 # GD3DGR: Grain Matching Demo (Phase 1)
 
-This notebook demonstrates keypoint detection and matching between two views using SIFT. These "grains" form the starting point of the Grain-to-Gaussian mapping pipeline proposed in GD3DGR.
+This notebook demonstrates keypoint detection and matching between two views using SIFT. These "grains" form the starting point for the pipeline proposed in GD3DGR.
 
 ## Files
 - `grain_matching_demo.ipynb`: Run this in Colab
