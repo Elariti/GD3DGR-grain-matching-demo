@@ -11,5 +11,4 @@ This notebook demonstrates keypoint detection and matching between two views usi
 ![image](https://github.com/user-attachments/assets/8aebf896-b429-41e4-b8ba-3d513730bf20)
 
 
-## Next Step
-Triangulate matched keypoints into 3D points, then explore basic PyTorch3D rendering.
+
